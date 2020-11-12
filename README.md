@@ -16,4 +16,4 @@ Sistema de cadastramento de residenciais para aluguel/compra
 | valor_mes              | Real                 | Valor a ser pago caso a opçao escolhida tenha sido aluguel                |
 | valor_a_pagar          | Real                 | Valor a ser pag caso a opçao escolhida tenha sido venda                   |
 | forma_de_pagamento     | Cadeia de caracteres | Esclarecer a forma de pagamento.Ex: mensal ou anual, integral ou dividido |
-| valort                 | Real                 | Usada para calcular o valor do aluguel                                    |
+
