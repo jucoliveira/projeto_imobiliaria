@@ -14,6 +14,6 @@ Sistema de cadastramento de residenciais para aluguel/compra
 | total_locadores        | Inteiro              | Usada para repetiçao dentro do case 1                                     |
 | total_locadores_aluguel| Inteiro              | Usada para repetição dentro do case 2                                     |
 | valor_mes              | Real                 | Valor a ser pago caso a opçao escolhida tenha sido aluguel                |
-| valor_a_pagar          | Real                 | Valor a ser pag caso a opçao escolhida tenha sido venda                   |
+| valor_a_pagar          | Real                 | Valor a ser pago caso a opçao escolhida tenha sido venda                   |
 | forma_de_pagamento     | Cadeia de caracteres | Esclarecer a forma de pagamento.Ex: mensal ou anual, integral ou dividido |
 
