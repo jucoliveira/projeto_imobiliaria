@@ -11,8 +11,9 @@ Sistema de cadastramento de residenciais para aluguel/compra
 | cidade                 | Cadeia de caracteres | Cidade onde o imóvel se localiza                                          |
 | contrato_minimo        | Inteiro              | Esclarecer o tempo mínimo de contrato do aluguel                          |
 | area_total             | Real                 | Área por m² da casa ou do apartamento                                     |
-| total_locadores        | Inteiro              |                                                                           |
-| total_locadores_aluguel| Inteiro              |                                                                           |
+| total_locadores        | Inteiro              | Usada para repetiçao dentro do case 1                                     |
+| total_locadores_aluguel| Inteiro              | Usada para repetição dentro do case 2                                     |
 | valor_mes              | Real                 | Valor a ser pago caso a opçao escolhida tenha sido aluguel                |
 | valor_a_pagar          | Real                 | Valor a ser pag caso a opçao escolhida tenha sido venda                   |
 | forma_de_pagamento     | Cadeia de caracteres | Esclarecer a forma de pagamento.Ex: mensal ou anual, integral ou dividido |
+| valort                 | Real                 | Usada para calcular o valor do aluguel                                    |
